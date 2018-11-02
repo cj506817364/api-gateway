@@ -5,7 +5,7 @@
 	<artifactId>tuling-api-gateway</artifactId>
 	<version>0.0.1-RELEASE</version>
 	<packaging>war</packaging>
-	<name>tuling-api-gateway</name>
+	<name>api-gateway</name>
 	<description>API网关</description>
 
 
